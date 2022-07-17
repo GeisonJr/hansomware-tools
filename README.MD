@@ -12,6 +12,12 @@
     <a>
     	<img src="https://img.shields.io/github/license/geisonjr/hansomware-tools?style=flat" alt="MIT Licence" />
     </a>
+    <a href="https://www.npmjs.com/package/@hansomware/tools">
+    	<img src="https://img.shields.io/npm/v/@hansomware/tools?style=flat-square" alt="NPM version" />
+    </a>
+    <a href="https://www.npmjs.com/package/@hansomware/tools">
+    	<img src="https://img.shields.io/npm/dt/@hansomware/tools?style=flat-square" alt="NPM downloads" />
+    </a>
   </p>
 </div>
 
